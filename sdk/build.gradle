@@ -30,3 +30,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
 }
+
+
+apply from: "./maven_publish.gradle"
