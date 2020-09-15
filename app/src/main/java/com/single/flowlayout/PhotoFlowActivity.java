@@ -9,8 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
-import com.library.flowlayout.FlowLayoutManager;
-import com.library.flowlayout.SpaceItemDecoration;
+import com.ms.module.view.recyclerview.flowlayout.FlowLayoutManager;
+import com.ms.module.view.recyclerview.flowlayout.SpaceItemDecoration;
 
 /**
  * Created by xiangcheng on 17/3/19.

@@ -8,8 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.library.flowlayout.FlowLayoutManager;
-import com.library.flowlayout.SpaceItemDecoration;
+import com.ms.module.view.recyclerview.flowlayout.FlowLayoutManager;
+import com.ms.module.view.recyclerview.flowlayout.SpaceItemDecoration;
 
 import java.util.List;
 
