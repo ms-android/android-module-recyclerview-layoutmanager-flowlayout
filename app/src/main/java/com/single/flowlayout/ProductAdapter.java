@@ -1,17 +1,14 @@
 package com.single.flowlayout;
 
 import android.content.Context;
-import android.support.v7.widget.RecyclerView;
-import android.util.Log;
+import androidx.recyclerview.widget.RecyclerView;
+
 import android.util.TypedValue;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.ViewTreeObserver;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.library.flowlayout.FlowLayoutManager;
-import com.library.flowlayout.NestedRecyclerView;
 import com.library.flowlayout.SpaceItemDecoration;
 
 import java.util.List;
